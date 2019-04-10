@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Li  M tham gia khng ng</name>
+   <name>div_utkrpgz               i m</name>
    <tag></tag>
-   <elementGuidId>7cd480ae-e20a-402b-a3ba-45985f1f526a</elementGuidId>
+   <elementGuidId>c4457806-8a15-4c60-9b99-da9e9eeb0d05</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='toast-container']/div</value>
+         <value>//div[@id='scroll-question']/div/div/app-invite-code/div/div[2]/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,62 +24,49 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>toast-error toast ng-trigger ng-trigger-flyInOut</value>
+      <value>text-center text-success</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Lỗi!  Mã tham gia không đúng </value>
+      <value>
+      utkrpgz
+      
+         Đổi mã
+      
+    </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;toast-container&quot;)/div[@class=&quot;toast-error toast ng-trigger ng-trigger-flyInOut&quot;]</value>
+      <value>id(&quot;scroll-question&quot;)/div[1]/div[@class=&quot;p-2&quot;]/app-invite-code[1]/div[@class=&quot;card bg-light mb-3&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;text-center text-success&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
-      <value>//div[@id='toast-container']/div</value>
+      <value>//div[@id='scroll-question']/div/div/app-invite-code/div/div[2]/div[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hủy'])[4]/following::div[6]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mã tham gia lớp học'])[1]/following::div[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lưu'])[1]/following::div[6]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng xuất'])[2]/following::div[8]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
-      <value>//div[3]/div/div</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[4]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::div[4]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <value>//div[2]/div/div</value>
+      <value>//app-invite-code/div/div[2]/div[2]</value>
    </webElementXpaths>
 </WebElementEntity>
